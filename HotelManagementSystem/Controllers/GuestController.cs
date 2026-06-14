@@ -74,16 +74,25 @@ namespace HotelManagementSystem.Controllers
             guest.Name = dto.Name;
             guest.Email = dto.Email;
 
-            if (dto.Staff?.Any() == true)
+            if (dto.Staff != null)
             {
-                var staffs = await _staffrepo.GetAllAsync();
-                var sForG = staffs.Where(x => dto.Staff.Contains(x.Id)).ToList();
-                if (sForG.Count != dto.Staff.Count || sForG.IsNullOrEmpty())
+                if (!dto.Staff.Any())
                 {
-                    return BadRequest("Invalid'Ids");
+                    guest.Staff.Clear(); 
                 }
-                guest.Staff= sForG;
-            } 
+                else
+                {
+                    var staffs = await _staffrepo.GetAllAsync();
+                    var sForG = staffs.Where(x => dto.Staff.Contains(x.Id)).ToList();
+
+                    if (sForG.Count != dto.Staff.Count)
+                    {
+                        return BadRequest("Invalid Ids");
+                    }
+
+                    guest.Staff = sForG;
+                }
+            }
 
             if (dto.Room != null)
             {

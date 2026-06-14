@@ -25,6 +25,8 @@ namespace HotelManagementSystem.Database
                 .HasOne(r => r.Room)
                 .WithOne(g => g.Guest)
                 .HasForeignKey<Room>(x => x.GuestId);
+                //.OnDelete(DeleteBehavior.NoAction);
+                
 
             modelBuilder.Entity<Department>()
                 .HasMany(s => s.Staff)

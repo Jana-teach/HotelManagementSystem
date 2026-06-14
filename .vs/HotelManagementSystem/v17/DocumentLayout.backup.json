@@ -1,0 +1,417 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\jana0\\source\\repos\\hotelmanagementsystem\\hotelmanagementsystem\\controllers\\guestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\controllers\\guestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\jana0\\source\\repos\\hotelmanagementsystem\\hotelmanagementsystem\\repos\\guestrepo\\guestrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\repos\\guestrepo\\guestrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\jana0\\source\\repos\\hotelmanagementsystem\\hotelmanagementsystem\\repos\\guestrepo\\iguestrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\repos\\guestrepo\\iguestrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\jana0\\source\\repos\\hotelmanagementsystem\\hotelmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\jana0\\source\\repos\\hotelmanagementsystem\\hotelmanagementsystem\\dtos\\guestdto\\readguestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\dtos\\guestdto\\readguestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\jana0\\source\\repos\\hotelmanagementsystem\\hotelmanagementsystem\\dtos\\guestdto\\roomforguest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\dtos\\guestdto\\roomforguest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\jana0\\source\\repos\\hotelmanagementsystem\\hotelmanagementsystem\\models\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\models\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\jana0\\source\\repos\\hotelmanagementsystem\\hotelmanagementsystem\\dtos\\guestdto\\createguestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\dtos\\guestdto\\createguestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\jana0\\source\\repos\\hotelmanagementsystem\\hotelmanagementsystem\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\jana0\\source\\repos\\hotelmanagementsystem\\hotelmanagementsystem\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\jana0\\source\\repos\\hotelmanagementsystem\\hotelmanagementsystem\\dtos\\staffdto\\createstaffdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\dtos\\staffdto\\createstaffdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\jana0\\source\\repos\\hotelmanagementsystem\\hotelmanagementsystem\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\jana0\\source\\repos\\hotelmanagementsystem\\hotelmanagementsystem\\dtos\\staffdto\\readstaffdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\dtos\\staffdto\\readstaffdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\jana0\\source\\repos\\hotelmanagementsystem\\hotelmanagementsystem\\repos\\staffrepo\\staffrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\repos\\staffrepo\\staffrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\jana0\\source\\repos\\hotelmanagementsystem\\hotelmanagementsystem\\repos\\staffrepo\\istaffrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\repos\\staffrepo\\istaffrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\jana0\\source\\repos\\hotelmanagementsystem\\hotelmanagementsystem\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\jana0\\source\\repos\\hotelmanagementsystem\\hotelmanagementsystem\\dtos\\departmentdto\\createdepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\dtos\\departmentdto\\createdepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\jana0\\source\\repos\\hotelmanagementsystem\\hotelmanagementsystem\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\jana0\\source\\repos\\hotelmanagementsystem\\hotelmanagementsystem\\repos\\genericrepo\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\repos\\genericrepo\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\jana0\\source\\repos\\hotelmanagementsystem\\hotelmanagementsystem\\repos\\genericrepo\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\repos\\genericrepo\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\jana0\\source\\repos\\hotelmanagementsystem\\hotelmanagementsystem\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Migrations\\20260614093201_m2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HotelManagementSystem\\Migrations\\20260614093201_m2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\jana0\\source\\repos\\hotelmanagementsystem\\hotelmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\jana0\\source\\repos\\hotelmanagementsystem\\hotelmanagementsystem\\hotelmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{882DE036-9867-46D3-AC18-F57673615491}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\hotelmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReadGuestDto.cs",
+              "DocumentMoniker": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Dtos\\GuestDto\\ReadGuestDto.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Dtos\\GuestDto\\ReadGuestDto.cs",
+              "ToolTip": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Dtos\\GuestDto\\ReadGuestDto.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Dtos\\GuestDto\\ReadGuestDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T10:26:19.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GuestRepo.cs",
+              "DocumentMoniker": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Repos\\GuestRepo\\GuestRepo.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Repos\\GuestRepo\\GuestRepo.cs",
+              "ToolTip": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Repos\\GuestRepo\\GuestRepo.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Repos\\GuestRepo\\GuestRepo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T10:23:55.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGuestRepo.cs",
+              "DocumentMoniker": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Repos\\GuestRepo\\IGuestRepo.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Repos\\GuestRepo\\IGuestRepo.cs",
+              "ToolTip": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Repos\\GuestRepo\\IGuestRepo.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Repos\\GuestRepo\\IGuestRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T10:21:45.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Guest.cs",
+              "DocumentMoniker": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Models\\Guest.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Models\\Guest.cs",
+              "ToolTip": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Models\\Guest.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Models\\Guest.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T09:05:09.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoomForGuest.cs",
+              "DocumentMoniker": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Dtos\\GuestDto\\RoomForGuest.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Dtos\\GuestDto\\RoomForGuest.cs",
+              "ToolTip": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Dtos\\GuestDto\\RoomForGuest.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Dtos\\GuestDto\\RoomForGuest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T10:10:32.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GuestController.cs",
+              "DocumentMoniker": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Controllers\\GuestController.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Controllers\\GuestController.cs",
+              "ToolTip": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Controllers\\GuestController.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Controllers\\GuestController.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAIwIMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T10:11:09.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Program.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T09:03:00.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateGuestDto.cs",
+              "DocumentMoniker": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Dtos\\GuestDto\\CreateGuestDto.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Dtos\\GuestDto\\CreateGuestDto.cs",
+              "ToolTip": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Dtos\\GuestDto\\CreateGuestDto.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Dtos\\GuestDto\\CreateGuestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T10:08:43.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReadStaffDto.cs",
+              "DocumentMoniker": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Dtos\\StaffDto\\ReadStaffDto.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Dtos\\StaffDto\\ReadStaffDto.cs",
+              "ToolTip": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Dtos\\StaffDto\\ReadStaffDto.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Dtos\\StaffDto\\ReadStaffDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T10:00:40.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StaffController.cs",
+              "DocumentMoniker": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Controllers\\StaffController.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Controllers\\StaffController.cs",
+              "ToolTip": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Controllers\\StaffController.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Controllers\\StaffController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwBoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T09:53:15.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateStaffDto.cs",
+              "DocumentMoniker": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Dtos\\StaffDto\\CreateStaffDto.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Dtos\\StaffDto\\CreateStaffDto.cs",
+              "ToolTip": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Dtos\\StaffDto\\CreateStaffDto.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Dtos\\StaffDto\\CreateStaffDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T09:52:40.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Models\\Staff.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Models\\Staff.cs",
+              "ToolTip": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Models\\Staff.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Models\\Staff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T09:06:20.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Models\\Room.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Models\\Room.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T09:08:00.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StaffRepo.cs",
+              "DocumentMoniker": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Repos\\StaffRepo\\StaffRepo.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Repos\\StaffRepo\\StaffRepo.cs",
+              "ToolTip": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Repos\\StaffRepo\\StaffRepo.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Repos\\StaffRepo\\StaffRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T09:59:10.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IStaffRepo.cs",
+              "DocumentMoniker": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Repos\\StaffRepo\\IStaffRepo.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Repos\\StaffRepo\\IStaffRepo.cs",
+              "ToolTip": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Repos\\StaffRepo\\IStaffRepo.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Repos\\StaffRepo\\IStaffRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T09:58:27.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvyEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T09:47:32.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateDepartmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Dtos\\DepartmentDto\\CreateDepartmentDto.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Dtos\\DepartmentDto\\CreateDepartmentDto.cs",
+              "ToolTip": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Dtos\\DepartmentDto\\CreateDepartmentDto.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Dtos\\DepartmentDto\\CreateDepartmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T09:47:00.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Repos\\GenericRepo\\GenericRepo.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Repos\\GenericRepo\\GenericRepo.cs",
+              "ToolTip": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Repos\\GenericRepo\\GenericRepo.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Repos\\GenericRepo\\GenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T09:43:31.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IGenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Repos\\GenericRepo\\IGenericRepo.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Repos\\GenericRepo\\IGenericRepo.cs",
+              "ToolTip": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Repos\\GenericRepo\\IGenericRepo.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Repos\\GenericRepo\\IGenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T09:42:22.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Database\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Database\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Database\\AppDbContext.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Database\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T09:12:16.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Models\\Department.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T09:07:20.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20260614093201_m2.cs",
+              "DocumentMoniker": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Migrations\\20260614093201_m2.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Migrations\\20260614093201_m2.cs",
+              "ToolTip": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Migrations\\20260614093201_m2.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Migrations\\20260614093201_m2.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T09:32:02.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\appsettings.json",
+              "RelativeToolTip": "HotelManagementSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-14T09:26:24.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HotelManagementSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\HotelManagementSystem.csproj",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\HotelManagementSystem.csproj",
+              "ToolTip": "C:\\Users\\jana0\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\HotelManagementSystem.csproj",
+              "RelativeToolTip": "HotelManagementSystem\\HotelManagementSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-14T09:00:37.966Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
